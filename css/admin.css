@@ -1,0 +1,17 @@
+.clvr-options label
+{
+    display: block;
+    margin-top: 10px;
+}
+
+.clvr-options .inline
+{
+    display: inline !important;
+    padding-bottom: 0;
+}
+
+.clvr-options .error
+{
+    background:#FFEBE8;
+    border-color:#c00;
+}
